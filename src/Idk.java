@@ -1,3 +1,6 @@
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
 
 public class Idk {
     
@@ -6,4 +9,4 @@ public class Idk {
     void numberTest(){
         assertEquals(1,1);
     }
-}
+} 
