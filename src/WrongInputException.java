@@ -1,3 +1,4 @@
+package Übungsblatt4;
 public class WrongInputException extends RuntimeException{
     
     public WrongInputException(){

@@ -1,3 +1,4 @@
+package Übungsblatt4;
 public class NoSpaceException extends RuntimeException {
     
     public NoSpaceException(){
