@@ -1,4 +1,4 @@
-package Übungsblatt4;
+
 public class DynArray<T> {
     
     private T[] array;  //Array mit den gespeicherten Werten

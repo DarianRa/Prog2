@@ -1,4 +1,4 @@
-package Übungsblatt4;
+
 
 public class Entry {
    
